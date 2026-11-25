@@ -1,12 +1,11 @@
-<p align="center">
+<h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/icon-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/brand/icon-light.svg">
-    <img alt="Magnitude icon" src="assets/brand/icon-light.svg" width="100">
+    <img alt="Magnitude icon" src="assets/brand/icon-light.svg" width="120" align="absmiddle">
   </picture>
-</p>
-
-<h1 align="center">Magnitude</h1>
+  Magnitude
+</h1>
 
 <p align="center"><strong>Run powerful open models on the hardware you already own</strong></p>
 
@@ -17,8 +16,6 @@
   <a href="https://x.com/usemagnitude"><img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="Follow Magnitude on Twitter"></a>
   <a href="https://github.com/magnitudedev/magnitude/stargazers"><img src="https://img.shields.io/github/stars/magnitudedev/magnitude" alt="GitHub Repo stars"></a>
 </p>
-
-</div>
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
