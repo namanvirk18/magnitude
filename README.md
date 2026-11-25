@@ -18,8 +18,6 @@
   <a href="https://github.com/magnitudedev/magnitude/stargazers"><img src="https://img.shields.io/github/stars/magnitudedev/magnitude" alt="GitHub Repo stars"></a>
 </p>
 
-Open-source inference engine that spreads models across GPU, RAM, and SSD to run them on everyday Macs and PCs.
-
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
