@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/icon-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/brand/icon-light.svg">
-    <img alt="Magnitude icon" src="assets/brand/icon-light.svg" width="60" align="absmiddle">
+    <img alt="Magnitude icon" src="assets/brand/icon-light.svg" width="120" align="absmiddle">
   </picture>
   Magnitude
 </h1>
